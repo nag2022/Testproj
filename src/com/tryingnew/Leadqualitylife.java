@@ -11,3 +11,4 @@ public class Leadqualitylife {
 			System.out.println("You live 70 years only");
 	}
 }
+// changed this program
